@@ -1,0 +1,11 @@
+h1,h2,h3,h4,h5,h6 {
+    font-weight: normal;
+    box-shadow: none;
+    text-shadow: none;
+}
+body {
+    background-color: #fff;
+}
+.slide {
+    background: linear-gradient(120deg, #2cc8da, #11658c);
+} 
