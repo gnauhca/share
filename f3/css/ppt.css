@@ -36,9 +36,9 @@ h2 {
   font-style: normal;
 }
 body {
-    background-color: #fff;
     font-family: 'Source Han Sans', 'Noto Sans S Chinese',Helvetica, Tahoma, Arial, 'Hiragino Sans GB', STXihei, "Microsoft YaHei", SimSun, Heiti, sans-serif;
-    background: url(/images/bg.jpg) center no-repeat;
+    background: url(../images/bg.jpg) center no-repeat;
+    background-color: #1f2c3c;
     background-size: 100%;
     transition: all 1s !important;
 }
