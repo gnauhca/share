@@ -38,9 +38,20 @@ h2 {
 body {
     background-color: #fff;
     font-family: 'Source Han Sans', 'Noto Sans S Chinese',Helvetica, Tahoma, Arial, 'Hiragino Sans GB', STXihei, "Microsoft YaHei", SimSun, Heiti, sans-serif;
+    background: url(/images/bg.jpg) center no-repeat;
+    background-size: 100%;
     transition: all 1s !important;
 }
 .slide {
     background: rgba(0,0,0,0)!important;
     /*background: linear-gradient(225deg, rgb(45, 195, 227) 0px, rgb(0, 163, 224) 100%)*/
 } 
+
+/*slides>slide .slide-wrapper strong {
+    text-shadow: none;
+    font-weight: bolder;
+    color: #f5ff70;
+}*/
+p {
+    font-size: 22px;
+}
